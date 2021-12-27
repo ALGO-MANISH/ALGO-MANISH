@@ -1,6 +1,6 @@
 ### Hi there, I'm Manish - aka [ALGO-MANISH] 👋
 
-## I'm a Web Developer, Grasphic Designer, Programmer, and a student!!
+## I'm a Web Developer, Graphic Designer, Programmer, and a student!!
 - 👯 I’m currently pursuing B Tech. Degree from NIT Silchar
 - 🔭 I just hosted two websites
 - 🌱 I’m currently learning Cryptography and BlockChain
