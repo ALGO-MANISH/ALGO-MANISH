@@ -3,7 +3,7 @@
 ## I'm a Web Developer, Graphic Designer, Programmer, and a student!!
 - 👯 I’m currently pursuing B Tech. Degree from NIT Silchar
 - 🔭 I just hosted two websites
-- 🌱 I’m currently learning Cryptography and BlockChain
+- 🌱 I’m currently learning Cryptography.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do solving coding problems
 
